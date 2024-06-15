@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://decoldembpro.github.io/sitemap
+Sitemap: https://decoldembpro.github.io/app/sitemap
+Sitemap: https://decoldembpro.github.io/assets/sitemap
+Sitemap: https://decoldembpro.github.io/css/sitemap
+Sitemap: https://decoldembpro.github.io/includes/sitemap
+Sitemap: https://decoldembpro.github.io/item/sitemap
+Sitemap: https://decoldembpro.github.io/src/sitemap
